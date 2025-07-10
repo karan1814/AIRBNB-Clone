@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# dotenv files
+.env
+
+# build output
+/dist
+/build
+
+# system files
+.DS_Store
+Thumbs.db
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode
+.idea
